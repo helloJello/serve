@@ -43,7 +43,7 @@
     "chalk": "2.4.1",
     "clipboardy": "2.3.0",
     "compression": "1.7.3",
-    "serve-handler": "git+https://github.com/helloJello/serve-handler#5605d35574eb87225f5400351ad0a09e8c420b8f",
+    "serve-handler": "git+https://github.com/helloJello/serve-handler",
     "update-check": "1.5.2"
   }
 }
